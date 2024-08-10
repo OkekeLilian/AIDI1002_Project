@@ -4,19 +4,12 @@
 
  ## Project Aim
 The primary aim of this project is to conduct an in-depth survival analysis and create predictive models for heart failure patients using machine learning techniques. This involves analyzing clinical data from patients with left ventricular systolic dysfunction and developing models using various algorithms to forecast survival outcomes.
-
 The dataset contains cardiovascular medical records taken from 299 patients. The patient cohort comprised of 105 women and 194 men between 40 and 95 years in age. All patients in the cohort were diagnosed with the systolic dysfunction of the left ventricle and had previous history of heart failures. As a result of their previous history every patient was classified into either class III or class IV of New York Heart Association (NYHA) classification for various stages of heart failure.
-
-
-
 ## Project Structure
 ###### Data : Folder containing the dataset used for analysis
 ###### Code :Folder containing all scripts and Jupyter notebooks
 ###### Requirements.txt : List of dependencies required to run the project
 ###### README.md : Project overview and instructions
-
-The dataset contains cardiovascular medical records taken from 299 patients. The patient cohort comprised of 105 women and 194 men between 40 and 95 years in age. All patients in the cohort were diagnosed with the systolic dysfunction of the left ventricle and had previous history of heart failures. As a result of their previous history every patient was classified into either class III or class IV of New York Heart Association (NYHA) classification for various stages of heart failure.
-
 ## FEATURE DESCRIPTION
 ##### Age:	Age of the patient	Years	[40,..., 95]
 ##### Anaemia:	Decrease of red blood cells or hemoglobin	Boolean	0, 1
